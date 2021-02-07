@@ -1,0 +1,4 @@
+﻿  Section6Challenge.cpp
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Section6Challenge\Section6Challenge\Section6Challenge.cpp(11,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Section6Challenge\Section6Challenge\Section6Challenge.cpp(11,33): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Section6Challenge.vcxproj -> C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Section6Challenge\Debug\Section6Challenge.exe
